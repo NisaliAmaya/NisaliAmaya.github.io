@@ -1,7 +1,1 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-  - jekyll-remote-theme
-title: NISALI AMAYA RANATHUNGA
-description: BSc (Hons) Biotechnology Portfolio
-github:
-  is_project_page: false
+
