@@ -3,3 +3,5 @@ plugins:
   - jekyll-remote-theme
 title: NISALI AMAYA RANATHUNGA
 description: BSc (Hons) Biotechnology Portfolio
+github:
+  is_project_page: false
