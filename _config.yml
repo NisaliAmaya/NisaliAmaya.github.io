@@ -1,11 +1,5 @@
-# remote_theme: pages-themes/architect@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: NISALI AMAYA RANATHUNGA # your name
-description: BSc (Hons) Biotechnology Portfolio # short description
-github:
-  is_project_page: false # IMPORTANT: Set this to false for a User/Organization site
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+title: NISALI AMAYA RANATHUNGA
+description: BSc (Hons) Biotechnology Portfolio
